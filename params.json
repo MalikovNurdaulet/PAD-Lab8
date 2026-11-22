@@ -2,6 +2,6 @@
   "test_size": 0.25,
   "random_state": 42,
   "model": "ridge",
-  "alpha": 1.0,
-  "dist_bins": 8
+  "alpha": 2.593,
+  "dist_bins": 0
 }
